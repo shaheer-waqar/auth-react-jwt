@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import axios from 'axios';
-import SignUp from './pages/signUp';
+import SignUp from './pages/SignUp';
 import { Route, Routes } from 'react-router-dom';
 import Login from './pages/Login';
 import AuthProtectedd from './pages/AuthProtectedd';
